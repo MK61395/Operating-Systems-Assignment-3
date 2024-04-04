@@ -1,0 +1,12 @@
+Transaction Details:
+Account 0 Balance: 3980
+Account 1 Balance: 2000
+
+Transaction Details:
+Account 0 Balance: 3980
+Account 1 Balance: 2000
+
+Transaction Details:
+Account 0 Balance: 3980
+Account 1 Balance: 2000
+
